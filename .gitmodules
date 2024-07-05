@@ -1,0 +1,3 @@
+[submodule "multirepoTesting"]
+	path = multirepoTesting
+	url = https://github.com/naliyeeva/multirepoTesting.git
