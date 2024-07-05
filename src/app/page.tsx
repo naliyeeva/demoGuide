@@ -1,5 +1,4 @@
-import Button from "../../../shared/src/app/Button";
-
+import Button from "@shared/Button";
 export default function Home() {
   return (
     <>
